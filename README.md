@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**LoanBarbosa/LoanBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CRÂNIO TECNOLOGIA
 
-Here are some ideas to get you started:
+### Desenvolvimento de Software | Infraestrutura de TI | Redes Corporativas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Soluções tecnológicas desenvolvidas para necessidades reais.**
+
+A CRÂNIO TECNOLOGIA atua no desenvolvimento de aplicações para Windows e Android, infraestrutura corporativa, redes, segurança e automação.
+
+---
+
+## Especialidades
+
+- Desenvolvimento de software para Windows
+- Desenvolvimento de aplicativos Android
+- Infraestrutura de redes corporativas
+- Configuração de switches Cisco e Aruba
+- VLANs, STP e troubleshooting
+- Monitoramento com Grafana, Loki e Syslog
+- Automação e administração de sistemas Windows
+- Diagnóstico e manutenção de computadores
+
+## Projetos
+
+### CRÂNIO REMOTE
+Software de acesso remoto para computadores Windows.
+
+### Território JW
+Aplicativo Android para gerenciamento de territórios.
+
+### Network Monitoring
+Monitoramento de infraestrutura com Grafana, Loki e Alloy.
+
+---
+
+## Contato
+
+**WhatsApp:** (21) 99864-7701
+
+**E-mail:** craniotecnologia@gmail.com
+
+**GitHub:** [LoanBarbosa](https://github.com/LoanBarbosa)
+  
